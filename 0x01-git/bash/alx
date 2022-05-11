@@ -1,5 +1,4 @@
-#!/bin/bash
-<<<<<<< HEAD
-echo "ALX"
+#!/bin/bash  
+echo "ALX School"
 =======
 >>>>>>> origin/master
